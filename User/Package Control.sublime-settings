@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CMake",
+		"Git",
+		"Git Config",
+		"GitGutter",
+		"Gitignore",
+		"Package Control",
+		"Sublimerge 3"
+	]
+}
